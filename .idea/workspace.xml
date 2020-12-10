@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53170b68-7f79-485a-b6cd-c32f2b6a3977" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1lT4iJ1xswW3pCg2kV4QcYtEP8C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Администратор\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53170b68-7f79-485a-b6cd-c32f2b6a3977" name="Default Changelist" comment="" />
+      <created>1607607872807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607607872807</updated>
+    </task>
+    <task id="LOCAL-00001" summary="исходная программа">
+      <created>1607607955514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607607955514</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добавлен комментарий Test">
+      <created>1607608266275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607608266275</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="исходная программа" />
+    <MESSAGE value="Добавлен комментарий Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен комментарий Test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="248" y="101" width="761" height="797" key="CommitChangelistDialog2" timestamp="1607608265402">
+      <screen x="0" y="0" width="1280" height="996" />
+    </state>
+    <state x="248" y="101" width="761" height="797" key="CommitChangelistDialog2/0.0.1280.996@0.0.1280.996" timestamp="1607608265402" />
+    <state x="424" y="245" key="FileChooserDialogImpl" timestamp="1607607892032">
+      <screen x="0" y="0" width="1280" height="996" />
+    </state>
+    <state x="424" y="245" key="FileChooserDialogImpl/0.0.1280.996@0.0.1280.996" timestamp="1607607892032" />
+    <state x="167" y="134" key="SettingsEditor" timestamp="1607609576443">
+      <screen x="0" y="0" width="1280" height="996" />
+    </state>
+    <state x="167" y="134" key="SettingsEditor/0.0.1280.996@0.0.1280.996" timestamp="1607609576443" />
+    <state x="337" y="321" key="Vcs.Push.Dialog.v2" timestamp="1607609242702">
+      <screen x="0" y="0" width="1280" height="996" />
+    </state>
+    <state x="337" y="321" key="Vcs.Push.Dialog.v2/0.0.1280.996@0.0.1280.996" timestamp="1607609242702" />
+    <state x="466" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607609710395">
+      <screen x="0" y="0" width="1280" height="996" />
+    </state>
+    <state x="466" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.996@0.0.1280.996" timestamp="1607609710395" />
+    <state x="338" y="295" key="git4idea.merge.GitPullDialog" timestamp="1607609733902">
+      <screen x="0" y="0" width="1280" height="996" />
+    </state>
+    <state x="338" y="295" key="git4idea.merge.GitPullDialog/0.0.1280.996@0.0.1280.996" timestamp="1607609733902" />
+    <state x="364" y="367" key="git4idea.rebase.GitRebaseDialog" timestamp="1607608400049">
+      <screen x="0" y="0" width="1280" height="996" />
+    </state>
+    <state x="364" y="367" key="git4idea.rebase.GitRebaseDialog/0.0.1280.996@0.0.1280.996" timestamp="1607608400049" />
+    <state x="347" y="398" key="git4idea.ui.GitResetDialog" timestamp="1607609191865">
+      <screen x="0" y="0" width="1280" height="996" />
+    </state>
+    <state x="347" y="398" key="git4idea.ui.GitResetDialog/0.0.1280.996@0.0.1280.996" timestamp="1607609191865" />
+    <state x="474" y="293" key="svn.repositoryBrowser" timestamp="1607608413586">
+      <screen x="0" y="0" width="1280" height="996" />
+    </state>
+    <state x="474" y="293" key="svn.repositoryBrowser/0.0.1280.996@0.0.1280.996" timestamp="1607608413586" />
+  </component>
+</project>
